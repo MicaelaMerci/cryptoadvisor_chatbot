@@ -6,4 +6,4 @@ This chatbot mimics basic AI decision-making by using rule-based logic to analyz
 
 # Developer
 
-* (Micaelamerci)[https://github.com/MicaelaMerci]
+* [Micaelamerci](https://github.com/MicaelaMerci)
